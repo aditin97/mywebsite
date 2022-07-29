@@ -10,3 +10,7 @@ h1 {
 div {
   margin: 70px;
 }
+
+header {
+	display:block;
+}
